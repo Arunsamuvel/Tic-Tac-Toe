@@ -51,7 +51,9 @@ img {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  font-size: 25px;
+  font-size: 50px;
+  line-height: 75px;
+  font-family: "permanent marker";
 }
 #status {
   padding: 20px;
